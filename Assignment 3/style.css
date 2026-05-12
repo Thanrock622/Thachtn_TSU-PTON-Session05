@@ -1,0 +1,13 @@
+* { margin: 0; padding: 0; box-sizing: border-box; }
+.button {
+    padding: 10px 20px;
+    background-color: #dddddd;
+    color: #fff;
+    border-radius: 4px;
+    cursor: pointer;
+    border: none;
+}
+.button:active {
+    background-color: #e90a0a;
+    color: #fff;
+}
